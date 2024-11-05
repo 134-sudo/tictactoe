@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">tic</string>
+    <string name="winner_massage">Вы победили!</string>
+    <string name="PC_winner_massage">Вы проиграли!</string>
+    <string name="NewGame">Рестарт</string>
+    <string name="draw_massage">Ничья</string>
+</resources>
